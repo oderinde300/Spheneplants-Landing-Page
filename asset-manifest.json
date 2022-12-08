@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Spheneplants-Landing-Page/static/css/main.f6912c78.css",
+    "main.js": "/Spheneplants-Landing-Page/static/js/main.250813f4.js",
+    "static/media/hero.png": "/Spheneplants-Landing-Page/static/media/hero.e860589c8505f6396b12.png",
+    "static/media/Rectangle3.png": "/Spheneplants-Landing-Page/static/media/Rectangle3.1017cb966fc6b3939f41.png",
+    "static/media/Rectangle7.png": "/Spheneplants-Landing-Page/static/media/Rectangle7.faef01a9d780a3ea86e3.png",
+    "static/media/Rectangle9.png": "/Spheneplants-Landing-Page/static/media/Rectangle9.b5011914148081519471.png",
+    "static/media/Rectangle8.png": "/Spheneplants-Landing-Page/static/media/Rectangle8.6065aaa1528980dabee2.png",
+    "static/media/Rectangle10.png": "/Spheneplants-Landing-Page/static/media/Rectangle10.bedff6a4e8d51ef1c463.png",
+    "static/media/avocado2.png": "/Spheneplants-Landing-Page/static/media/avocado2.e7e27d33154c8076d017.png",
+    "static/media/Frame 5.png": "/Spheneplants-Landing-Page/static/media/Frame 5.19e7a236b7b4fafbddf3.png",
+    "static/media/Product1.png": "/Spheneplants-Landing-Page/static/media/Product1.54402b99217a1ad101e8.png",
+    "static/media/Product3.png": "/Spheneplants-Landing-Page/static/media/Product3.3111549a899e3504b77d.png",
+    "static/media/Product2.png": "/Spheneplants-Landing-Page/static/media/Product2.cce5877d13f012881a6c.png",
+    "static/media/Product4.png": "/Spheneplants-Landing-Page/static/media/Product4.e93d513a4ea27c1fdee5.png",
+    "index.html": "/Spheneplants-Landing-Page/index.html",
+    "main.f6912c78.css.map": "/Spheneplants-Landing-Page/static/css/main.f6912c78.css.map",
+    "main.250813f4.js.map": "/Spheneplants-Landing-Page/static/js/main.250813f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6912c78.css",
+    "static/js/main.250813f4.js"
+  ]
+}

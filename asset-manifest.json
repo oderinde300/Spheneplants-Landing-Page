@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Spheneplants-Landing-Page/static/css/main.038fbef9.css",
+    "main.css": "/Spheneplants-Landing-Page/static/css/main.02ea3bb5.css",
     "main.js": "/Spheneplants-Landing-Page/static/js/main.250813f4.js",
     "static/media/hero.png": "/Spheneplants-Landing-Page/static/media/hero.e860589c8505f6396b12.png",
     "static/media/Rectangle3.png": "/Spheneplants-Landing-Page/static/media/Rectangle3.1017cb966fc6b3939f41.png",
@@ -15,11 +15,11 @@
     "static/media/Product2.png": "/Spheneplants-Landing-Page/static/media/Product2.cce5877d13f012881a6c.png",
     "static/media/Product4.png": "/Spheneplants-Landing-Page/static/media/Product4.e93d513a4ea27c1fdee5.png",
     "index.html": "/Spheneplants-Landing-Page/index.html",
-    "main.038fbef9.css.map": "/Spheneplants-Landing-Page/static/css/main.038fbef9.css.map",
+    "main.02ea3bb5.css.map": "/Spheneplants-Landing-Page/static/css/main.02ea3bb5.css.map",
     "main.250813f4.js.map": "/Spheneplants-Landing-Page/static/js/main.250813f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.038fbef9.css",
+    "static/css/main.02ea3bb5.css",
     "static/js/main.250813f4.js"
   ]
 }

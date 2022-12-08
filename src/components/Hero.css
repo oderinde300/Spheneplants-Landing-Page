@@ -1,0 +1,264 @@
+.Hero {
+    background: url(../assets/hero.png) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.nav-bar {
+    background-color: #F8F2E8;
+    max-width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 16px 16px;
+}
+
+.mobile-nav-bar {
+    position: absolute;
+    background-color: #e7d3b1;
+    height: 100vh;
+    width: 100%;
+    display: none;
+    z-index: 3;
+    top: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+@media screen and (max-width: 960px) {
+    .mobile-nav-bar {
+        display: flex;
+    }
+}
+
+.mobile-navigation-logo {
+    position: relative;
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    z-index: 5;
+    background-color: #e7d3b1;
+}
+
+@media screen and (max-width: 960px) {
+    .mobile-navigation-logo {
+        display: flex;
+    }
+}
+
+.mobile-navigation-icons {
+    position: absolute;
+    right: 1rem;
+    top: 1.7rem;
+    color: #004A19;
+}
+
+
+.mobile-navigation {
+    margin-top: 5rem;
+}
+
+.mobile-nav-links-1,
+.mobile-nav-links-3 {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    margin: 1rem;
+    margin-left: 3rem
+}
+
+.mobile-nav-links-2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+
+
+.mobile-nav-bar ul li {
+    margin: 20px 0;
+    list-style: none;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.mobile-nav-link-sphene {
+    font-weight: 800;
+    font-size: 24px;
+    color: #004A19;
+}
+
+.mobile-nav-link-btn {
+    background-color: #004A19;
+    color: #FFF;
+    padding: 12px 24px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.mobile-nav-link-btn:hover {
+    background-color: #003A16;
+}
+
+
+@media (max-width: 1180px) {
+    .nav-bar {
+        max-width: 100%;
+        border-radius: 0;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .nav-bar {
+        display: none;
+    }
+}
+
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-right: 30px;
+}
+
+.navigation ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation ul li {
+    list-style: none;
+    font-weight: 600;
+    font-size: 18px;
+    margin: 0 20px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav-link-sphene {
+    font-weight: 800;
+    font-size: 24px;
+    color: #004A19;
+}
+
+
+.nav-link-btn {
+    background-color: #004A19;
+    color: #FFF;
+    padding: 12px 24px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.nav-link-btn:hover {
+    background-color: #003A16;
+}
+
+.hero-text {
+    position: relative;
+    top: 25%;
+    left: 10%;
+    max-width: 750px;
+}
+
+@media screen and (max-width: 800px) {
+    .hero-text {
+        max-width: 500px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .hero-text {
+        max-width: 370px;
+    }
+}
+
+
+
+
+.hero-title {
+    color: #FFF;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 650px) {
+    .hero-title {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .hero-title {
+        font-size: 12px;
+    }
+}
+
+
+
+
+.hero-subtitle {
+    color: #FFF;
+    font-weight: 800;
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+@media screen and (max-width: 650px) {
+    .hero-subtitle {
+        font-size: 32px;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .hero-subtitle {
+        font-size: 24px;
+    }
+}
+
+
+@media screen and (max-width: 950px) {
+    .hero-text {
+        top: 20%;
+        left: 5%;
+    }
+
+    .hero-subtitle {
+        font-size: 32px;
+    }
+}
+
+
+.hero-btn {
+    background-color: #FFF;
+    color: #004A19;
+    padding: 12px 24px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.hero-btn:hover {
+    background-color: #F8F2E8;
+}
